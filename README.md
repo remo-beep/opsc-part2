@@ -1,2 +1,4 @@
 # opsc-part2
 user-friendly Android budget tracker app built with Kotlin.
+
+ExpenseMaster is a personal finance tracking app designed to help users manage their expenses and monthly budgets efficiently. Users can register and log in to maintain their own financial data, ensuring privacy and personalized tracking. The app allows users to create and edit categories, add expenses with detailed descriptions, set compulsory start and end dates, and attach receipts if needed. Monthly budgeting features let users establish minimum and maximum spending limits, helping them stay within financial goals. Users can also filter expenses by date to analyze spending trends, while a secure database ensures each user accesses only their own financial records. With a clean and intuitive interface, ExpenseMaster simplifies money management, making it easy to control spending habits and stay financially organized.
